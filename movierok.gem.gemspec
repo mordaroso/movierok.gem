@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{movierok}
+  s.name = %q{movierok.gem}
   s.version = "0.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
@@ -10,12 +10,12 @@ Gem::Specification.new do |s|
   s.description = %q{The official movierok gem.}
   s.email = %q{mordaroso@gmail.com}
   s.extra_rdoc_files = ["README", "lib/movierok_hash.rb", "lib/movierok.rb"]
-  s.files = ["Manifest", "README", "Rakefile", "lib/movierok_hash.rb", "lib/movierok.rb", "movierok.gemspec"]
+  s.files = ["Manifest", "README", "Rakefile", "lib/movierok_hash.rb", "lib/movierok.rb", "movierok.gem.gemspec"]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/mordaroso/movierok.gem}
-  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Movierok", "--main", "README"]
+  s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Movierok.gem", "--main", "README"]
   s.require_paths = ["lib"]
-  s.rubyforge_project = %q{movierok}
+  s.rubyforge_project = %q{movierok.gem}
   s.rubygems_version = %q{1.3.2}
   s.summary = %q{The official movierok gem.}
 

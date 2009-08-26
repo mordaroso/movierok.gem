@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('movierok', '0.0.1') do |p|
+Echoe.new('movierok.gem', '0.0.1') do |p|
   p.description    = "The official movierok gem."
   p.url            = "http://github.com/mordaroso/movierok.gem"
   p.author         = "mordaroso"
